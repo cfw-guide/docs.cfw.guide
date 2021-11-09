@@ -4,3 +4,6 @@
 [submodule "docs/second-wind"]
 	path = docs/second-wind
 	url = https://github.com/emiyl/second-wind.git
+[submodule "docs/.vuepress/public/second-wind"]
+	path = docs/.vuepress/public/second-wind
+	url = https://github.com/emiyl/second-wind-public.git
