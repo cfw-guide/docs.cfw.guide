@@ -14,8 +14,6 @@ module.exports = {
   
   themeConfig: {
     repo: 'cfw-guide/docs.cfw.guide',
-		docsBranch: "master",
-		docsDir: "docs",
     selectLanguageText: '<i class="fas fa-bars"/>',
     adTagOne: 'waldo-tag-5340',
     adTagTwo: 'waldo-tag-5340',
