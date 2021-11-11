@@ -10,6 +10,12 @@ module.exports = {
 				locales: sites.searchLocales
 			}
 		],
+		[
+			'@vuepress/register-components',
+			{
+				componentsDir: path.resolve(__dirname, './components')
+			}
+		]
 	],
   
   themeConfig: {
